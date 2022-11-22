@@ -17,5 +17,5 @@ A Calculinha é uma calculadora simples (Só que rosa), um projeto de estudo. <b
 <a href = "https://github.com/rodolfq/Calculinha/raw/master/Calculinha.apk">
   Baixe diretamente o APK
   </a>    
-    
+  
     
